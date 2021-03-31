@@ -1,1 +1,0 @@
-{"path":"Automation Anywhere\\Bots\\Tasks\\001-Receipt order\\Site\\화이트생명","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\VBScripts\\나머지구하기.vbs","Automation Anywhere\\Bots\\01-Common\\TaskKill_webbrowser_Excel","Automation Anywhere\\Bots\\VBScripts\\Cell_Color.vbs","Automation Anywhere\\Bots\\01-Common\\TaskKill_All_Webbrowser"]}
