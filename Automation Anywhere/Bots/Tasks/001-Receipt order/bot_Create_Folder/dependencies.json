@@ -1,0 +1,1 @@
+{"path":"Automation Anywhere\\Bots\\Tasks\\001-Receipt order\\Create_Folder","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\01-Common\\Create_Local_Folder","Automation Anywhere\\Bots\\01-Common\\Create_Network_Folder"]}
