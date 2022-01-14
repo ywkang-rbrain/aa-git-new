@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\portal\\PortalSampleTask","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\portal\\ExceptionAtSubTask","Automation Anywhere\\Bots\\portal\\FinishAtSubTask"]}
+{"path":"Automation Anywhere\\Bots\\portal\\PortalSampleTask","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\portal\\FinishAtSubTask","Automation Anywhere\\Bots\\portal\\ExceptionAtSubTask"]}
